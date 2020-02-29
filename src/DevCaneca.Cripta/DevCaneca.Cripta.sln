@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevCaneca.Cripta.BLL", "DevCaneca.Cripta.BLL\DevCaneca.Cripta.BLL.csproj", "{3F4908EB-5FF0-448F-808A-9F1546D9E445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevCaneca.Cripta", "DevCaneca.Cripta\DevCaneca.Cripta.csproj", "{AE4FDED9-E020-40B8-9340-379659C5E1C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F4908EB-5FF0-448F-808A-9F1546D9E445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4908EB-5FF0-448F-808A-9F1546D9E445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4908EB-5FF0-448F-808A-9F1546D9E445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4908EB-5FF0-448F-808A-9F1546D9E445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4FDED9-E020-40B8-9340-379659C5E1C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4FDED9-E020-40B8-9340-379659C5E1C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4FDED9-E020-40B8-9340-379659C5E1C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4FDED9-E020-40B8-9340-379659C5E1C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A076BF4F-92B1-4529-B60A-FC4A9088C54F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/devcaneca
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DevCaneca.Cripta.BLL\\DevCaneca.Cripta.BLL.csproj
+		SccProjectName1 = DevCaneca.Cripta.BLL
+		SccLocalPath1 = DevCaneca.Cripta.BLL
+		SccProjectUniqueName2 = DevCaneca.Cripta\\DevCaneca.Cripta.csproj
+		SccProjectName2 = DevCaneca.Cripta
+		SccLocalPath2 = DevCaneca.Cripta
+	EndGlobalSection
+EndGlobal

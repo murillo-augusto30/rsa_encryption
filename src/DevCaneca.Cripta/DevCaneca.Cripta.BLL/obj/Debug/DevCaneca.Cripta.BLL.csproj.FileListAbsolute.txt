@@ -1,0 +1,5 @@
+C:\Users\3muri\Documents\Projetos\DevCaneca\Estudo\DevCaneca.Cripta\DevCaneca.Cripta.BLL\bin\Debug\DevCaneca.Cripta.BLL.dll
+C:\Users\3muri\Documents\Projetos\DevCaneca\Estudo\DevCaneca.Cripta\DevCaneca.Cripta.BLL\bin\Debug\DevCaneca.Cripta.BLL.pdb
+C:\Users\3muri\Documents\Projetos\DevCaneca\Estudo\DevCaneca.Cripta\DevCaneca.Cripta.BLL\obj\Debug\DevCaneca.Cripta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\3muri\Documents\Projetos\DevCaneca\Estudo\DevCaneca.Cripta\DevCaneca.Cripta.BLL\obj\Debug\DevCaneca.Cripta.BLL.dll
+C:\Users\3muri\Documents\Projetos\DevCaneca\Estudo\DevCaneca.Cripta\DevCaneca.Cripta.BLL\obj\Debug\DevCaneca.Cripta.BLL.pdb
