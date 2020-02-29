@@ -1,9 +1,0 @@
-C:\Users\3muri\Documents\Projetos\DevCaneca\Estudo\DevCaneca.Cripta\DevCaneca.Cripta\bin\Debug\DevCaneca.Cripta.exe.config
-C:\Users\3muri\Documents\Projetos\DevCaneca\Estudo\DevCaneca.Cripta\DevCaneca.Cripta\bin\Debug\DevCaneca.Cripta.exe
-C:\Users\3muri\Documents\Projetos\DevCaneca\Estudo\DevCaneca.Cripta\DevCaneca.Cripta\bin\Debug\DevCaneca.Cripta.pdb
-C:\Users\3muri\Documents\Projetos\DevCaneca\Estudo\DevCaneca.Cripta\DevCaneca.Cripta\obj\Debug\DevCaneca.Cripta.csprojAssemblyReference.cache
-C:\Users\3muri\Documents\Projetos\DevCaneca\Estudo\DevCaneca.Cripta\DevCaneca.Cripta\obj\Debug\DevCaneca.Cripta.Properties.Resources.resources
-C:\Users\3muri\Documents\Projetos\DevCaneca\Estudo\DevCaneca.Cripta\DevCaneca.Cripta\obj\Debug\DevCaneca.Cripta.csproj.GenerateResource.cache
-C:\Users\3muri\Documents\Projetos\DevCaneca\Estudo\DevCaneca.Cripta\DevCaneca.Cripta\obj\Debug\DevCaneca.Cripta.csproj.CoreCompileInputs.cache
-C:\Users\3muri\Documents\Projetos\DevCaneca\Estudo\DevCaneca.Cripta\DevCaneca.Cripta\obj\Debug\DevCaneca.Cripta.exe
-C:\Users\3muri\Documents\Projetos\DevCaneca\Estudo\DevCaneca.Cripta\DevCaneca.Cripta\obj\Debug\DevCaneca.Cripta.pdb
